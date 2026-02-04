@@ -1,0 +1,317 @@
+[
+  {
+    "id": "nature_portfolio",
+    "journal": "Nature (Nature Portfolio)",
+    "publisher": "Springer Nature",
+    "field": "Top science",
+    "policy_level": "Publisher/Portfolio",
+    "policy_url": "https://www.nature.com/nature-portfolio/editorial-policies/ai",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed (disclose if material)."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Conditional (disclose; author responsible)."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed (verify correctness; disclose if material)."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify sources/citations; disclose if material)."
+    },
+    "ai_images": {
+      "status": "prohibited",
+      "text": "AI-generated images generally not permitted for publication (exceptions only if the tool itself is the object of study and transparently described)."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Restricted/typically prohibited due to confidentiality expectations."
+    },
+    "disclosure_where": "Acknowledgements and/or Methods (as appropriate)",
+    "notes": "Emphasis on transparency, accountability, and risks of fabricated content/citations."
+  },
+  {
+    "id": "science_aass",
+    "journal": "Science (AAAS)",
+    "publisher": "AAAS",
+    "field": "Top science",
+    "policy_level": "Journal",
+    "policy_url": "https://www.science.org/content/page/science-journals-editorial-policies",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed (subject to policy; disclose where requested)."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Restricted/conditional; transparency required."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed (verify; disclose if material)."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify sources; avoid fabricated references)."
+    },
+    "ai_images": {
+      "status": "restricted",
+      "text": "AI-generated images/multimedia not permitted without explicit editor permission (exceptions possible)."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Restricted (confidentiality/integrity concerns)."
+    },
+    "disclosure_where": "As required by journal policy (often Acknowledgements/Methods)",
+    "notes": "Strong focus on integrity and author responsibility."
+  },
+  {
+    "id": "pnas",
+    "journal": "PNAS",
+    "publisher": "National Academy of Sciences",
+    "field": "Top science",
+    "policy_level": "Journal",
+    "policy_url": "https://www.pnas.org/author-center/editorial-and-journal-policies",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed with disclosure; authors must fact-check outputs."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Conditional with disclosure; authors responsible for accuracy."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed (verify; disclose if material)."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify citations; disclose if material)."
+    },
+    "ai_images": {
+      "status": "prohibited",
+      "text": "AI tools for images/graphics not permitted unless the software is the subject of the work."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Restricted."
+    },
+    "disclosure_where": "In manuscript per PNAS policy (commonly Acknowledgements/Methods)",
+    "notes": "Explicit AI guidance; strong stance on AI-generated images."
+  },
+  {
+    "id": "elsevier_policy",
+    "journal": "Elsevier journals (e.g., Cell Press / Social Science & Medicine)",
+    "publisher": "Elsevier",
+    "field": "Cross-field",
+    "policy_level": "Publisher",
+    "policy_url": "https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed for writing assistance with disclosure (excluding basic grammar/spell check)."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Conditional; must disclose use of generative AI/AI-assisted technologies in writing."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed (verify; disclose if material)."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify sources; avoid fabricated citations)."
+    },
+    "ai_images": {
+      "status": "restricted",
+      "text": "Restricted; follow journal/policy rules and ensure rights; disclose when relevant."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Restricted; confidentiality concerns in review process."
+    },
+    "disclosure_where": "A specific declaration/statement in the manuscript (often before References) per Elsevier guidance",
+    "notes": "Elsevier policy focuses on transparency in writing; research-method use is not the target of the writing policy."
+  },
+  {
+    "id": "sage_policy",
+    "journal": "SAGE journals (e.g., New Media & Society, Communication Research)",
+    "publisher": "SAGE",
+    "field": "Communication & media",
+    "policy_level": "Publisher",
+    "policy_url": "https://www.sagepub.com/journals/publication-ethics-policies/artificial-intelligence-policy",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Assistive use allowed (SAGE notes assistive use no longer requires disclosure)."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Generative use requires disclosure; prohibitive uses not allowed."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed (verify; disclose if material / if generative)."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify sources; disclosure if generative output used materially)."
+    },
+    "ai_images": {
+      "status": "restricted",
+      "text": "Restricted; follow journal guidance; disclose where relevant."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Restricted/prohibited to protect confidentiality and integrity."
+    },
+    "disclosure_where": "Per SAGE policy; journal may specify exact placement",
+    "notes": "SAGE explicitly distinguishes assistive vs generative vs prohibitive uses."
+  },
+  {
+    "id": "taylor_francis_policy",
+    "journal": "Taylor & Francis journals (e.g., Information, Communication & Society)",
+    "publisher": "Taylor & Francis",
+    "field": "Communication & media",
+    "policy_level": "Publisher",
+    "policy_url": "https://taylorandfrancis.com/our-policies/ai-policy/",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed (disclose when beyond basic editing, per policy expectations)."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Conditional; disclose and ensure responsible use."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed (verify; disclose if material)."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify sources/citations)."
+    },
+    "ai_images": {
+      "status": "restricted",
+      "text": "Restricted; disclose/ensure rights; journal-specific rules may apply."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Restricted/prohibited due to confidentiality."
+    },
+    "disclosure_where": "Per T&F AI policy; journal may specify placement",
+    "notes": "Disclosure-centric; details can differ for books vs journals."
+  },
+  {
+    "id": "oup_ai_policy_example",
+    "journal": "Oxford University Press (example journal AI policy page)",
+    "publisher": "Oxford University Press",
+    "field": "Communication & media (publisher framework)",
+    "policy_level": "Publisher/Journal example",
+    "policy_url": "https://academic.oup.com/jpepsy/pages/ai-policy",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed but must be disclosed in cover letter and Methods/Acknowledgements (per OUP policy page)."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Conditional; disclose use."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed; disclose use; authors accountable."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify sources; disclose if material)."
+    },
+    "ai_images": {
+      "status": "restricted",
+      "text": "AI-generated images/graphics not permitted unless the software is the subject of the work."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "OUP example policy does not support AI as substitute for human expertise in review."
+    },
+    "disclosure_where": "Cover letter + Methods or Acknowledgements (per the OUP journal AI policy page)",
+    "notes": "OUP also has broader author AI guidance; journal pages may be more explicit for articles."
+  },
+  {
+    "id": "apa_generative_ai",
+    "journal": "APA Journals (e.g., JPSP)",
+    "publisher": "American Psychological Association",
+    "field": "Social science",
+    "policy_level": "Publisher",
+    "policy_url": "https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed with disclosure/attribution expectations depending on use."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Conditional; authors must provide attribution to the generative AI tool where it generated ideas/content/analysis/code/research elements."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed (verify; disclose/attribute as appropriate)."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed (verify sources; avoid fabricated citations)."
+    },
+    "ai_images": {
+      "status": "restricted",
+      "text": "Restricted; follow journal guidance and rights/ethics considerations."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Restricted."
+    },
+    "disclosure_where": "Per APA guidance (disclosure/attribution and appropriate documentation in manuscript)",
+    "notes": "Explicitly mentions attribution when AI generates ideas/content/analysis/code/research elements."
+  },
+  {
+    "id": "cope_position",
+    "journal": "COPE (reference baseline)",
+    "publisher": "COPE",
+    "field": "Ethics baseline",
+    "policy_level": "Guidance",
+    "policy_url": "https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools",
+    "ai_author": "Prohibited",
+    "ai_writing_assist": {
+      "status": "allowed",
+      "text": "Allowed if transparent; authors remain responsible."
+    },
+    "ai_content_generation": {
+      "status": "conditional",
+      "text": "Conditional; must not obscure responsibility; transparency expected."
+    },
+    "ai_code_generation": {
+      "status": "allowed",
+      "text": "Allowed with responsibility and transparency."
+    },
+    "ai_literature_search": {
+      "status": "allowed",
+      "text": "Allowed; verify sources; avoid fabricated citations."
+    },
+    "ai_images": {
+      "status": "restricted",
+      "text": "Depends on journal/publisher; COPE focuses on integrity and transparency."
+    },
+    "peer_review_ai": {
+      "status": "restricted",
+      "text": "Many journals disallow due to confidentiality; COPE emphasizes protecting review integrity."
+    },
+    "disclosure_where": "Where journal/publisher requires; ensure transparency",
+    "notes": "Useful as a portable minimum standard across venues."
+  }
+]
