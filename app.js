@@ -64,7 +64,7 @@ function renderQuery(){
     <dialog id="aiDialog" class="dialog">
       <h2>AI-segítség kiválasztása</h2>
       <div class="grid">
-        <label><input type="checkbox" id="cbWriting"> Szöveg struktúrázása / szerkesztés</label>
+        <label><input type="checkbox" id="cbWriting"> Szöveg struktúrálása / szerkesztés</label>
         <label><input type="checkbox" id="cbContent"> Tartalomgenerálás</label>
         <label><input type="checkbox" id="cbCode"> Kód generálása</label>
         <label><input type="checkbox" id="cbLit"> Szakirodalomkutatás AI-val</label>
