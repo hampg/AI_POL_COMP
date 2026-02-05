@@ -23,7 +23,7 @@ const ASPECTS = [
 
 function statusPill(status){
   const s = (status || "").toLowerCase();
-  if(s === "allowed") return `<span class="pill ok">engedett</span>`;
+  if(s === "allowed") return `<span class="pill ok">megengedett</span>`;
   if(s === "conditional") return `<span class="pill warn">feltételes</span>`;
   if(s === "restricted") return `<span class="pill warn">korlátozott</span>`;
   if(s === "prohibited") return `<span class="pill no">tiltott</span>`;
